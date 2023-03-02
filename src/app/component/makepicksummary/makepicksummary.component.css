@@ -1,0 +1,57 @@
+.c-grid-head-green
+{
+background-color: green;
+color: white;
+margin:10px 20px;
+padding: 10px 10px;
+border-radius: 10px;
+height: 100px;
+text-align: center;
+}
+.c-lable-name
+{
+padding:0px 5px;
+text-align: center;
+
+font-size: 12px;
+height: 60px;
+}
+.c-grid-head
+{
+margin:10px 20px;
+padding: 10px 10px;
+border-radius: 10px;
+height: 100px;
+text-align: center;
+}
+.c-grid-button
+{
+  background-color:#006eeb;
+  text-align: center;
+  color:#fff;
+margin-top:10px;
+padding: 0px 0px;
+border-radius: 50%;
+height: 120px;
+width: 120px;
+  text-transform: capitalize;
+}
+.border-c-login-btn2
+{
+   border-color:#0036c3;
+    border-bottom-style: dotted;
+    border-width: 5px;
+ }
+.c-grid-heading{
+font-size: 18px;
+color: #4d4d4d;
+padding: 20px 0px ;
+background-color: #ccc;
+font-weight: bold;
+text-align: center;
+}
+
+.button2:disabled {
+  background-color:#4d4d4d;
+  border-color:#000000;
+}

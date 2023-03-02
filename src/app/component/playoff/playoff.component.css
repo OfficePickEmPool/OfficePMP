@@ -1,0 +1,116 @@
+
+.borderletsplay
+{
+   border-color:#dc3c00;;
+    border-bottom-style: dotted;
+    border-width: 10px;
+ }
+.lblMessageletsPlay
+{
+  text-transform: capitalize;
+  background-color:#ff7602;    
+  margin-top:40px;
+  text-align: center;
+  color:#fff;
+  font-size:22px;
+  padding:20px 25px;
+  width: 90%;
+  border-radius: 50%;
+
+}
+.c-score{
+	background-color: #fff;
+   	font-size: 14px;
+    color: #4d4d4d;
+    padding-left:0;
+    padding-right: 0;
+    placeholder-color:#4d4d4d;
+    width: 80px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+	height: 150px;
+	border-radius: 5px;
+}
+.c-grid-head-green
+{
+background-color:#4d4d4d;
+color: white;
+margin:10px 20px;
+padding: 10px 10px;
+border-radius: 10px;
+height: 180px;
+}
+.c-grid-head-green-line
+{
+background-color:transparent;
+color: white;
+margin:10px 0px;
+border-radius: 10px;
+height: 180px;
+}
+.c-grid-head-green-line2
+{
+background-color:transparent;
+color: white;
+
+border-radius: 10px;
+height: 200px;
+}
+.c-graph-head
+{
+	text-align: left;
+	vertical-align: top;
+	background-color: #ccc;
+	padding: 20px 20px;
+	font-size: 20px;
+	font-weight: bold;
+	margin:30px 20px 0px 20px;
+}
+.c-win
+{
+	background-color: green;
+	text-align: center;
+	height: 140px;
+	width:50px;
+	border-radius: 50%;
+}
+.c-lost-second
+{
+background-color: yellow;
+	text-align: center;
+	height: 140px;
+	width:50px;
+	border-radius: 50%;
+	color :rgb(139, 12, 12);
+}
+.c-lost-first
+{
+background-color: yellow;
+color:green;
+	text-align: center;
+	height: 140px;
+	width:50px;
+	border-radius: 50%;
+}
+.c-lost
+{
+	background-color: rgb(139, 12, 12);
+	text-align: center;
+	height: 140px;
+	width:50px;
+	border-radius: 50%;
+}
+.c-sep
+{
+	height: 5px;
+	background-color: white;
+}
+
+.c-heading-playoff
+{
+	text-align: center;
+	font-weight: bold;
+	margin-top: 50px;
+	color:#4d4d4d;
+}

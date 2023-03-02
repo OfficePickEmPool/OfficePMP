@@ -1,0 +1,19 @@
+.w-bg
+{
+	background-image: url('~/Images/w-bg.png');
+	background-size: cover;
+	background-position: center;
+}
+.w-logo
+{
+	width: 80%;
+	height: auto;
+}
+.w-gettingready
+{
+	max-width: 100%;
+	height: auto;
+}
+.c-main-grid{
+	margin-top:30px;
+}

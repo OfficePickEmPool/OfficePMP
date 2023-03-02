@@ -1,0 +1,27 @@
+.makePick .headerSetting .title {
+        font-size: 17px;
+        border: none !important;
+	
+    }
+	
+.headingOPP {
+    font-weight: bold;
+    color: white;
+    margin-top: 1%;
+    text-align: center;
+}
+.welcomemessage{
+	text-align: center;
+  color:rgb(139, 12, 12);
+  font-size:25px;
+  font-weight: bold;
+  padding:20px 0px;
+}
+.welcome-logo
+{
+  width: 350px;
+  height: 350px;
+  margin: 130px 0px 80px 0px;
+  
+  
+}
