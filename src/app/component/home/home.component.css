@@ -1,0 +1,84 @@
+
+
+.lblMessageWelcome
+{
+    
+  
+  text-align: center;
+  color:rgb(139, 12, 12);
+  font-size:25px;
+  font-weight: bold;
+  padding:20px 0px;
+}
+.borderletsplay
+{
+   border-color:#dc3c00;
+    border-bottom-style: dotted;
+    border-width: 10px;
+ }
+.lblMessageletsPlay
+{
+  
+    background-color:#ff7602;
+    
+  margin-top:80px;
+  text-align: center;
+  color:#fff;
+  font-size:22px;
+  padding:40px 25px;
+  width: 90%;
+  border-radius: 50%;
+
+}
+
+.bordermanageLeagues
+{
+   border-color:#0036c3;
+    border-bottom-style: dotted;
+    border-width: 10px;
+ }
+.lblMessagemanageLeagues
+{
+    background-color:#006eeb;
+  margin-top:80px;
+  text-align: center;
+  color:#fff;
+  font-size:22px;
+  padding:40px 25px;
+  width: 90%;
+  border-radius: 50%;
+}
+.borderSub
+{
+   border-color:#901504;
+    border-bottom-style: dotted;
+    border-width: 10px;
+ }
+.lblMessageSub
+{
+     background-color:#b71105;
+  margin-top:80px;
+  text-align: center;
+  color:#fff;
+  font-size:22px;
+  padding:40px 25px;
+  width: 90%;
+  border-radius: 50%;
+}
+.borderIns
+{
+   border-color:#4e5b01;
+    
+    border-width: 10px;
+ }
+.lblMessageIns
+{
+    background-color:#4e7c01;
+  margin-top:80px;
+  text-align: center;
+  color:#fff;
+  font-size:22px;
+  padding:40px 25px;
+  width: 90%;
+  border-radius: 50%;
+}

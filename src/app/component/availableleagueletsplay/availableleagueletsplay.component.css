@@ -1,0 +1,14 @@
+
+.c-login-btn
+{
+    background-color:#006eeb;
+  margin-bottom:30px;
+  text-align: center;
+  color:#fff;
+  font-size:18px;
+  padding:40px 25px;
+  width: 90%;
+  border-radius: 50%;
+  text-transform: capitalize;
+
+}

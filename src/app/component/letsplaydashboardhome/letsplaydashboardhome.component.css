@@ -1,0 +1,138 @@
+
+.lblInstructions 
+{
+   background-color: #28a5eb;
+   margin-top:50px;
+  text-align: center;
+  color:#fff;
+  font-size:22px;
+  padding:40px 25px;
+  width: 90%;
+  border-radius: 20px;
+}
+.borderInstructions
+{
+   border-color:#0057ad;
+    border-bottom-style: dotted;
+    border-width: 10px;
+ }
+
+
+
+ .lblscheduleIcon  
+{
+   background-color: #c30101;
+   margin-top:50px;
+  text-align: center;
+  color:#fff;
+  font-size:22px;
+  padding:40px 25px;
+  width: 90%;
+  border-radius: 20px;
+}
+.borderscheduleIcon
+{
+   border-color:#620506;
+    border-bottom-style: dotted;
+    border-width: 10px;
+ }
+
+.lblScores  
+{
+   background-color: #38a70a;
+   margin-top:50px;
+  text-align: center;
+  color:#fff;
+  font-size:22px;
+  padding:40px 25px;
+  width: 90%;
+  border-radius: 20px;
+}
+.borderScores 
+{
+   border-color:#125808;
+    border-bottom-style: dotted;
+    border-width: 10px;
+ }
+
+
+
+
+
+.lblNotes  
+{
+   background-color: #e6ae01;
+   margin-top:50px;
+  text-align: center;
+  color:#fff;
+  font-size:22px;
+  padding:40px 25px;
+  width: 90%;
+  border-radius: 20px;
+}
+.borderNotes  
+{
+   border-color:#bf9700;
+    border-bottom-style: dotted;
+    border-width: 10px;
+ }
+ 
+
+
+ .lblPlayer   
+{
+   background-color: #ba36cf;
+   margin-top:50px;
+  text-align: center;
+  color:#fff;
+  font-size:22px;
+  padding:40px 25px;
+  width: 90%;
+  border-radius: 20px;
+}
+.borderPlayer  
+{
+   border-color:#780996;
+    border-bottom-style: dotted;
+    border-width: 10px;
+ }
+
+
+
+ .lblRules    
+{
+   background-color: #fb731d;
+   margin-top:50px;
+  text-align: center;
+  color:#fff;
+  font-size:22px;
+  padding:40px 25px;
+  width: 90%;
+  border-radius: 20px;
+}
+.borderRules  
+{
+   border-color:#ba4a11;
+    border-bottom-style: dotted;
+    border-width: 10px;
+ }
+
+
+
+ .lblFriends    
+{
+   background-color: #aadb40;
+   margin-top:50px;
+  text-align: center;
+  color:#fff;
+  font-size:22px;
+  padding:40px 25px;
+  width: 90%;
+  border-radius: 20px;
+}
+.borderFriends 
+{
+   border-color:#aabb01;
+    border-bottom-style: dotted;
+    border-width: 10px;
+ }

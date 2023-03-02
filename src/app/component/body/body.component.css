@@ -1,0 +1,107 @@
+button {
+    font-size: 15;
+    horizontal-align: center;
+}
+.ico2
+{
+    background-image: url('~/Images/menu.png');
+    
+    width: 40px;
+    height: 37px;
+    background-size: cover;
+}
+
+.drawerContentText {
+    font-size: 13;
+    padding: 10;
+}
+.headerbutton
+{
+    background-color: blue;
+}
+.drawerContentButton {
+     horizontal-align: right;
+}
+.backbutton
+{
+ horizontal-align: left;	
+}
+.sideStackLayout {
+    background-color:rgba(0, 0, 0, 0.6);
+    
+}
+.logo-lable
+{
+    color: rgb(146, 145, 145);
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 120px;
+    font-weight: bold;
+}
+
+.sideTitleStackLayout {
+    
+    text-align: center;
+    vertical-align: center;
+    
+}
+.nav-logo
+{
+    margin: 30px 0px;
+    width: 200px;
+}
+.border {
+    border-color:rgba(255, 255, 255, 0.7);
+    border-bottom-style: dotted;
+    border-width: 1px;
+    border-top-color: transparent;
+border-left-color: transparent;
+border-right-color: transparent;
+    
+}
+.sideLabel {
+    padding: 40px;
+    color: #ccc;
+   
+    font-size: 18px;
+    
+}
+.sideLabel2 {
+    padding: 20px 40px;
+    color: #ccc;
+   background-color: rgb(139, 12, 12, 0.8);
+    font-size: 16px;
+    
+}
+.sideLabel3 {
+   
+    color: #ccc;
+   background-color: rgb(139, 12, 12);
+    font-size: 16px;
+    
+    
+}
+.sideLightGrayLabel {
+    background-color: lightgray;
+}
+.c-menu-toggle
+{
+    background-image: url("~/Images/menu.png");
+    height: 50px;
+    width: 50px;
+    background-size:100% 100%;
+    
+    margin: 50px;
+    
+    right: 20px;
+    position: relative;
+
+}
+.c-menu-toggle2
+{
+    background-image: url("~/Images/menu2.png");
+    height: 50px;
+    width: 100px;
+    background-size:100% 100%;
+    position: relative;
+}

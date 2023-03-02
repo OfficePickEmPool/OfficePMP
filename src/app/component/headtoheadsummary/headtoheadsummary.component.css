@@ -1,0 +1,62 @@
+.c-grid-head-green
+{
+background-color: green;
+color: white;
+margin:10px 20px;
+padding: 10px 10px;
+border-radius: 10px;
+height: 100px;
+}
+.c-grid-head-orange
+{
+background-color: rgba(255, 147, 7, 0.815);
+color: white;
+margin:10px 20px;
+padding: 10px 10px;
+border-radius: 10px;
+height: 100px;
+}
+.c-grid-head-red
+{
+background-color:rgb(139, 12, 12);
+color: white;
+margin:10px 20px;
+padding: 10px 10px;
+border-radius: 10px;
+height: 100px;
+}
+.c-grid-head
+{
+margin:20px 20px;
+}
+.c-lable-name
+{
+padding:0px 10px;
+text-align: Left;
+
+font-size: 12px;
+height: 60px;
+}
+.c-lable-count
+{
+text-align: right;
+padding:0px 10px;
+height: 50px;
+font-size: 12px;
+}
+.c-text-2
+{
+    background-color: transparent;
+   font-size: 18px;
+    border-bottom-color: #4d4d4d;
+    border-bottom-width: 3;
+    color: #4d4d4d;
+    padding-left:0;
+    padding-right: 0;
+    placeholder-color: #4d4d4d;  
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 95%;
+    padding: 0;
+    margin: 0;
+    margin-top: 80px; 
+}
