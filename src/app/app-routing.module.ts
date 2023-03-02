@@ -108,4 +108,3 @@ const routes: Routes = [
     exports: [NativeScriptRouterModule]
 })
 export class AppRoutingModule { }
-
